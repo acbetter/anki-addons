@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "venv/bin/python",
+  "python.formatting.provider": "autopep8",
+  "python.formatting.autopep8Args": ["--max-line-length=200"],
+  "python.linting.pylintArgs": [
+    "-rn --extension-pkg-whitelist=PyQt5 --disable=blacklisted-name,invalid-name,missing-docstring"
+  ],
+  "autoDocstring.docstringFormat": "google"
+}

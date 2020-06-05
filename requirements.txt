@@ -1,0 +1,7 @@
+aqt
+anki
+mypy
+ankirspy
+
+pylint
+autopep8
